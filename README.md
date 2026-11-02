@@ -12,3 +12,5 @@ Requires JDK 17 or newer and Maven.
 
 Run:
 mvn clean test
+
+GitHub Actions automatically builds the project and runs the JUnit tests on pushes to main.
